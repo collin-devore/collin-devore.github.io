@@ -1,5 +1,3 @@
-<<dd_version: 1>>
-
 <head>
 <link rel="stylesheet" type="text/css" href="stmarkdown.css">
 <script type="text/x-mathjax-config">
@@ -9,67 +7,69 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
 </script>
 </head>
+<h1><a href="#a-study-of-happy-planet-index" id="a-study-of-happy-planet-index">A Study of Happy Planet Index.</a></h1>
+<pre><code>. webuse set &quot;https://raw.githubusercontent.com/kho777/data-visualization/master
+&gt; /data&quot;
+(prefix now &quot;https://raw.githubusercontent.com/kho777/data-visualization/master/
+&gt; data&quot;)
 
-<<dd_do: quietly>>
-syntax [anything(name=detail)]
-<</dd_do>>
+. webuse &quot;hpi2016dataonly&quot;, clear
 
-<<dd_do: quietly>>
-set linesize 80
-<</dd_do>>
+</code></pre>
+<p>Taking the log of GDP Per capita to make the variable more linear.</p>
+<pre><code>. gen lgdp=log(GDPcapitaPPP)
 
-# A Study of Happy Planet Index.
+. label variable lgdp &quot;GDP Per Capita (logged)&quot;
 
-~~~~
-<<dd_do>>
-webuse set "https://raw.githubusercontent.com/kho777/data-visualization/master/data"
-webuse "hpi2016dataonly", clear
-<</dd_do>>
-~~~~
+</code></pre>
+<p>Create multiple variables for plots of Happy Planet Index using Region. Use the label statements to clean and shorten the variable labels for legend</p>
+<pre><code>. separate HappyPlanetIndex, by(Region) shortlabel
 
-Taking the log of GDP Per capita to make the variable more linear.
+              storage   display    value
+variable name   type    format     label      variable label
+--------------------------------------------------------------------------------
+HappyPlanetIn~1 double  %10.0g                Region == Americas
+HappyPlanetIn~2 double  %10.0g                Region == Asia Pacific
+HappyPlanetIn~3 double  %10.0g                Region == Europe
+HappyPlanetIn~4 double  %10.0g                Region == Middle East and North
+                                                Africa
+HappyPlanetIn~5 double  %10.0g                Region == Post-communist
+HappyPlanetIn~6 double  %10.0g                Region == Sub Saharan Africa
 
-~~~~
-<<dd_do>>
-gen lgdp=log(GDPcapitaPPP)
-label variable lgdp "GDP Per Capita (logged)"
-<</dd_do>>
-~~~~
+. lab var HappyPlanetIndex1 &quot;Americas&quot;
 
-Create multiple variables for plots of Happy Planet Index using Region.
-Use the label statements to clean and shorten the variable labels for legend 
+. lab var HappyPlanetIndex2 &quot;Asia Pacific&quot;
 
-~~~~
-<<dd_do>>
-separate HappyPlanetIndex, by(Region) shortlabel
-lab var HappyPlanetIndex1 "Americas"
-lab var HappyPlanetIndex2 "Asia Pacific"
-lab var HappyPlanetIndex3 "Europe"
-lab var HappyPlanetIndex4 "Middle East and North Africa"
-lab var HappyPlanetIndex5 "Post-communist"
-lab var HappyPlanetIndex6 "Sub Saharan Africa"
-<</dd_do>>
-~~~~
+. lab var HappyPlanetIndex3 &quot;Europe&quot;
 
-## Explore relationship between HPI and GDP Per Capita
+. lab var HappyPlanetIndex4 &quot;Middle East and North Africa&quot;
 
-~~~~
-<<dd_do>>
-scatter HappyPlanetIndex? lgdp, ytitle(Happy Planent Index)
-<</dd_do>>
-~~~~
+. lab var HappyPlanetIndex5 &quot;Post-communist&quot;
 
- <<dd_graph: sav("hpilgdp.png") alt("HPI~GDPPC") replace height(400)>>
+. lab var HappyPlanetIndex6 &quot;Sub Saharan Africa&quot;
 
-~~~~
-<<dd_do>>
-regress HappyPlanetIndex lgdp 
-<</dd_do>>
-~~~~
+</code></pre>
+<h2><a href="#explore-relationship-between-hpi-and-gdp-per-capita" id="explore-relationship-between-hpi-and-gdp-per-capita">Explore relationship between HPI and GDP Per Capita</a></h2>
+<h1><a href="#scatter-plot-to-show-the-relationship" id="scatter-plot-to-show-the-relationship">Scatter plot to show the relationship</a></h1>
+<pre><code>. scatter HappyPlanetIndex? lgdp, ytitle(Happy Planent Index)
 
-<<dd_do:quietly>>
-matrix eb = e(b)
-<</dd_do>>
+</code></pre>
+ <img src="hpilgdp.pdf" height="400" alt="HPI~GDPPC" >
+<pre><code>. regress HappyPlanetIndex lgdp 
 
-The regression shows that for every unit increase in GDP Per Capita (logged), a 
-<<dd_display:%9.4f eb[1,1]>> unit increase in Happy Planet Index is predicted.
+      Source |       SS           df       MS      Number of obs   =       140
+-------------+----------------------------------   F(1, 138)       =      9.28
+       Model |  469.252954         1  469.252954   Prob &gt; F        =    0.0028
+    Residual |  6974.55558       138  50.5402578   R-squared       =    0.0630
+-------------+----------------------------------   Adj R-squared   =    0.0562
+       Total |  7443.80853       139  53.5525794   Root MSE        =    7.1092
+
+------------------------------------------------------------------------------
+HappyPlane~x |      Coef.   Std. Err.      t    P&gt;|t|     [95% Conf. Interval]
+-------------+----------------------------------------------------------------
+        lgdp |     1.2505   .4103919     3.05   0.003     .4390302    2.061969
+       _cons |   15.65245    3.58156     4.37   0.000     8.570619    22.73428
+------------------------------------------------------------------------------
+
+</code></pre>
+<p>The regression shows that for every unit increase in GDP Per Capita (logged), a 1.2505 unit increase in Happy Planet Index is predicted.</p>
