@@ -4,7 +4,7 @@ title: Research and Studies
 permalink: /research/
 ---
 
-<p>This page provides selections from my work as a graduate studen and an undergraduate student. Each of the graduate projects were researched and turned in in the spring of 2019, while the undergraduate work was turned in at different times. Though more honors courses were taken, much of the contracts are provided. The two contracts that are omitted are my earliest works, which consist of a research paper on the five stages of decomposition in Entomology in the spring of 2014 and a research paper on big data from the fall of 2014. These two papers have been omitted due to their disappearance from my computer's memory, along with the lack of relevance of the entomology paper. Feel free to view my work and get a feel for my research and writing style.  </p>
+<p>This page provides selections from my work as a graduate student and an undergraduate student. Each of the graduate projects were researched and turned in in the spring of 2019, while the undergraduate work was turned in at different times. Though more honors courses were taken, much of the contracts are provided. The two contracts that are omitted are my earliest works, which consist of a research paper on the five stages of decomposition in Entomology in the spring of 2014 and a research paper on big data from the fall of 2014. These two papers have been omitted due to their disappearance from my computer's memory, along with the lack of relevance of the entomology paper. Feel free to view my work and get a feel for my research and writing style.  </p>
 
 
 ---
