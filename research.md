@@ -26,3 +26,10 @@ Presentations
 [Data Visualization Project Presentation](/gradresearch/Data Visualization Project Presentation.pdf "Data Visualization Project Presentation")
 
 [Cost-Benefit Analysis Final Presentation](/gradresearch/CBA Presentation1.pdf "Cost-Benefit Analysis Final Presentation")
+
+
+---
+<b>Undergraduate Studies</b>
+
+
+Projects
