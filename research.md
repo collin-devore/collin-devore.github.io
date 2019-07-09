@@ -7,7 +7,15 @@ permalink: /research/
 <b>Graduate Studies</b>
 
 
+Projects
+
+
+
+
+
+
 Presentations
+
 
 [Time Series Analysis 2 Project Presentation](/Time Series Analysis 2 Project Presentation.pdf "Time Series Analysis 2 Project Presentation")
 
