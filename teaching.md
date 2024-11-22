@@ -3,7 +3,6 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-<b>Courses</b>
 
 
 <b>Summer 2023</b>
