@@ -78,6 +78,7 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
+  - _posts  # Recently added
   - Gemfile
   - Gemfile.lock
   - LICENSE
