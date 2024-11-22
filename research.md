@@ -53,4 +53,4 @@ Projects
 
 [Intermediate Microeconomics Honors Contract Fall 2015](/undergradresearch/An Economic Analysis of the Car Industry During the Great Recession.pdf "Intermediate Microeconomics Honors Contract Fall 2015")
 -->
-d
+
