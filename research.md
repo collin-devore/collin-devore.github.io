@@ -10,7 +10,7 @@ permalink: /research/
 
 <b>Works in Progress</b>
 
-<em>Mergers, Network Structure, and Resilience<\em> by Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
+<em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
 
 <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
 
