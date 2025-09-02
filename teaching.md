@@ -13,6 +13,8 @@ Winter 2023: ECON 2843 - Elements of Statistics
 Summer 2024: ECON 1113 - Principles of Macroeconomics
 
 
+<br>
+
 <b>Teaching Assistant Courses</b>
 
 Fall 2025: ECON 5123 - Microeconomic Theory (Graduate Level)
