@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<b>My Courses<\b>
+<b>My Courses</b>
 
 Summer 2023: ECON 1123 - Principles of Microeconomics
 
@@ -13,7 +13,7 @@ Winter 2023: ECON 2843 - Elements of Statistics
 Summer 2024: ECON 1113 - Principles of Macroeconomics
 
 
-<b>Teaching Assistant Courses<\b>
+<b>Teaching Assistant Courses</b>
 
 Fall 2025: ECON 5123 - Microeconomic Theory (Graduate Level)
 
