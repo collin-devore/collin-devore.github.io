@@ -7,6 +7,10 @@ permalink: /research/
 
 <em>Network Dynamics in the US Airline Industry</em> by Kasra Khademorezaian, Lei He, Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
 
+<em>Mergers, Subcontracting, and Pricing in the Airline Industry</em> Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
+
+<em>Price Asymmetry and Competition</em> by Collin DeVore, Minhae Kim, MyongJin Kim, and Nicholas G. Rupp
+
 
 <b>Works in Progress</b>
 
