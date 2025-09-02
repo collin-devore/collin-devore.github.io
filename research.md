@@ -3,6 +3,8 @@ layout: page
 title: Research
 permalink: /research/
 ---
+
+<br>
 <b>Working Paper</b>
 
 <em>Network Dynamics in the US Airline Industry</em> by Kasra Khademorezaian, Lei He, Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
@@ -12,6 +14,7 @@ permalink: /research/
 <em>Price Asymmetry and Competition</em> by Collin DeVore, Minhae Kim, MyongJin Kim, and Nicholas G. Rupp
 
 
+<br>
 <b>Works in Progress</b>
 
 <em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
