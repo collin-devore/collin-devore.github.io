@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello. My name is Collin DeVore. I am a doctoral economics student at the University of Oklahoma. My research is in industrial organization and applied microeconomics. Please feel free to browse my site and learn more about me and my research.
+Hello. My name is Collin DeVore. I am a doctoral economics student at the University of Oklahoma. My research is in industrial organization and applied microeconomics. Currently, I am working on the economics of airlines. I am interested in better understanding the way that mergers affect industries, and the way that policies have driven change within the airline industry.
 
 ### Contact me
 
