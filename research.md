@@ -7,9 +7,11 @@ permalink: /research/
 <br>
 <b>Working Paper</b>
 
+<em>Mergers, Subcontracting, and Pricing in the Airline Industry</em> Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
+
 <em>Network Dynamics in the US Airline Industry</em> by Kasra Khademorezaian, Lei He, Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
 
-<em>Mergers, Subcontracting, and Pricing in the Airline Industry</em> Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
+<em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
 
 <em>Price Asymmetry and Competition</em> by Collin DeVore, Minhae Kim, MyongJin Kim, and Nicholas G. Rupp
 
@@ -19,7 +21,7 @@ permalink: /research/
 
 <em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and MyongJin Kim
 
-<em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
+<em>Airline Leasing Project</em> by MyongJin Kim and Collin DeVore
 
 <!-- <i>Who CARES? Airline Quality and the Aftermath of the CARES Act</i> -->
 
