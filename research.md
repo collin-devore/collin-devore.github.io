@@ -29,17 +29,22 @@ the CARES Act’s resolution led to decreased quality, with a dip in worker prod
   </p>
 </details>
 
+
 - <em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp
+
 
 - <em>Network Dynamics in the US Airline Industry</em> by Kasra Khademorezaian, Lei He, Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim
 
+
 - <em>Mergers, Subcontracting, and Pricing in the Airline Industry</em> Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim
+
 
 
 <br>
 <u><b>Works in Progress</b></u>
 
 - <em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim
+
 
 - <em>Aircraft Leasing and Route Flexibility during Economic Shocks</em> by Myongjin Kim and Collin DeVore
 
