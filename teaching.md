@@ -8,10 +8,19 @@ permalink: /teaching/
 <b>My Courses</b>
 
 Summer 2023: ECON 1123 - Principles of Microeconomics
+<div style="margin-left:40px;">
+  <a href="/CRS_Report_Micro.pdf">Course Reflection Survey</a>
+</div>
 
 Winter 2023: ECON 2843 - Elements of Statistics
+<div style="margin-left:40px;">
+  <a href="/CRS_Report_Stats.pdf">Course Reflection Survey</a>
+</div>
 
 Summer 2024: ECON 1113 - Principles of Macroeconomics
+<div style="margin-left:40px;">
+  <a href="/CRS_Report_Macro.pdf">Course Reflection Survey</a>
+</div>
 
 
 <br>
