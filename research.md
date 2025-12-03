@@ -9,7 +9,7 @@ permalink: /research/
 
 <strong><em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore</strong>
 <div style="margin-left:20px;">
-  ▶ <a href="/CARES_Act_Project">Full Paper</a>
+  <a href="/CARES_Act_Project.pdf">Full Paper</a>
 </div>
 <details style="margin-left:20px;">
 <summary>Abstract</summary>
