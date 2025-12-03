@@ -9,8 +9,8 @@ permalink: /research/
 
 <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
 [Full Paper](/CARES_Act_Project)
-<details>
-<summary><strong></summary>**Abstract**</strong></summary>
+<details style="margin-left:20px;">
+<summary>**Abstract**</summary>
   <p>
   Questions regarding the effectiveness of different subsidies, along with the efficiency
 and stability they may provide, have been researched widely within the field of economics.
