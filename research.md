@@ -8,10 +8,10 @@ permalink: /research/
 <u><b>Working Papers</b></u>
 
 - <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
-<div style="margin-left:20px;">
+<div style="margin-left:40px;">
   <a href="/CARES_Act_Project.pdf">Full Paper</a>
 </div>
-<details style="margin-left:20px;">
+<details style="margin-left:40px;">
 <summary>Abstract</summary>
   <p>
   Questions regarding the effectiveness of different subsidies, along with the efficiency
