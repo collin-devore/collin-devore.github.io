@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <br>
-<u><b>Working Papers</b></u>
+<b>Working Papers</b>
 
 <strong><em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore</strong>
 <div style="margin-left:20px;">
@@ -37,7 +37,7 @@ the CARES Act’s resolution led to decreased quality, with a dip in worker prod
 
 
 <br>
-<u><b>Works in Progress</b></u>
+<b>Works in Progress</b>
 
 <strong><em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim</strong>
 
