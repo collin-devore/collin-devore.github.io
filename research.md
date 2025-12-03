@@ -7,7 +7,7 @@ permalink: /research/
 <br>
 <u><b>Working Papers</b></u>
 
-<strong><em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore</strong>
+<em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
 <div style="margin-left:20px;">
   <a href="/CARES_Act_Project.pdf">Full Paper</a>
 </div>
@@ -29,19 +29,19 @@ the CARES Act’s resolution led to decreased quality, with a dip in worker prod
   </p>
 </details>
 
-<strong><em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp</strong>
+<em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp
 
-<strong><em>Network Dynamics in the US Airline Industry</em> by Kasra Khademorezaian, Lei He, Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim</strong>
+<em>Network Dynamics in the US Airline Industry</em> by Kasra Khademorezaian, Lei He, Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim
 
-<strong><em>Mergers, Subcontracting, and Pricing in the Airline Industry</em> Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim</strong>
+<em>Mergers, Subcontracting, and Pricing in the Airline Industry</em> Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim
 
 
 <br>
 <u><b>Works in Progress</b></u>
 
-<strong><em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim</strong>
+<em>Mergers, Network Structure, and Resilience</em> by Collin DeVore, Georgia Kosmopoulou, and Myongjin Kim
 
-<strong><em>Aircraft Leasing and Route Flexibility during Economic Shocks</em> by Myongjin Kim and Collin DeVore</strong>
+<em>Aircraft Leasing and Route Flexibility during Economic Shocks</em> by Myongjin Kim and Collin DeVore
 
 <!-- <i>Who CARES? Airline Quality and the Aftermath of the CARES Act</i> -->
 
