@@ -9,8 +9,10 @@ permalink: /research/
 
 <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
 [Full Paper](/CARES_Act_Project)
-**Abstract**
-Questions regarding the effectiveness of different subsidies, along with the efficiency
+<details>
+<summary><strong></summary>**Abstract**</strong></summary>
+  <p>
+  Questions regarding the effectiveness of different subsidies, along with the efficiency
 and stability they may provide, have been researched widely within the field of economics.
 However, the effects that result from the conclusion of subsidization have received considerably
 less attention. As a case study, this analysis focuses on the CARES Act subsidy
@@ -22,6 +24,8 @@ this act led to improvements in quality or productivity within the airline indus
 initial CARES Act shock subsided. Binary regression methods and on-time performance
 data are utilized to this end. Ultimately, I find that, by my most conservative estimates,
 the CARES Act’s resolution led to decreased quality, with a dip in worker productivity.
+  </p>
+</details>
 
 <em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp
 
