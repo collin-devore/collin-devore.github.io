@@ -27,7 +27,7 @@ Summer 2024: ECON 1113 - Principles of Macroeconomics
 
 <b>Teaching Assistant Courses</b>
 
-Fall 2025: ECON 5123 - Microeconomic Theory (Graduate Level)
+Fall 2025: ECON 5123 - Advanced Price and Welfare Theory (Graduate Level)
 
 Fall 2025: ECON 6343 - Econometrics 3 (Graduate Level)
 
