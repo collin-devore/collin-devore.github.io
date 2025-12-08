@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume/CV
+title: Documents
 permalink: /documents/
 ---
 
@@ -8,7 +8,7 @@ permalink: /documents/
 &hyphen; This document provides a concise overview of my skills and qualifications tailored to the private sector.
 
 [Government Sector Resume](/CollinDeVore_Resume_Government.pdf)
-- This document provides a concise overview of my skills and qualifications tailored to the government sector.
+&hyphen; This document provides a concise overview of my skills and qualifications tailored to the government sector.
 
 [Curriculum Vitae](/CollinDeVore_CurriculumVitae.pdf)
-- This document shows a comprehensive list of my academic journey.
+&hyphen; This document shows a comprehensive list of my academic journey.
