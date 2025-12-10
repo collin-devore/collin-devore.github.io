@@ -9,6 +9,7 @@ permalink: /teaching/
 
 Summer 2023: ECON 1123 - Principles of Microeconomics
 <div style="margin-left:40px;">
+  <a href="/teaching/Micro_Syllabus.pdf">Syllabus</a><br>
   <a href="/teaching/CRS_Report_Micro.pdf">Course Reflection Survey</a>
 </div>
 
