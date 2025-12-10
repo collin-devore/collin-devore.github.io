@@ -15,7 +15,6 @@ Summer 2023: ECON 1123 - Principles of Microeconomics
 
 Winter 2023: ECON 2843 - Elements of Statistics
 <div style="margin-left:40px;">
-  <a href="/teaching/Stats_Syllabus.pdf">Syllabus</a>
   <a href="/teaching/CRS_Report_Stats.pdf">Course Reflection Survey</a>
 </div>
 
