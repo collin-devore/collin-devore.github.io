@@ -30,7 +30,7 @@ the CARES Act’s resolution led to decreased quality, with a dip in worker prod
 </details>
 
 
-- <em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp
+- <em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp (Under Review)
 
 
 
