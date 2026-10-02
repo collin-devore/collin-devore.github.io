@@ -7,8 +7,7 @@ permalink: /research/
 <br>
 <u><b>Working Papers</b></u>
 
-- <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore <br>
-  <!-- <a href="/CARES_Act_Project.pdf">Full Paper</a> -->
+<!-- - <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore <br>
   [Full Paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5850942)
 <details style="margin-left:40px;">
 <summary>Abstract</summary>
@@ -26,8 +25,31 @@ initial CARES Act shock subsided. Binary regression methods and on-time performa
 data are utilized to this end. Ultimately, I find that, by my most conservative estimates,
 the CARES Act’s resolution led to decreased quality, with a dip in worker productivity.
   </p>
-</details>
+</details> -->
+<ul>
+  <li style="margin-bottom:20px;">
+    <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore<br>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5850942">Full Paper (SSRN)</a>
 
+    <details style="margin-left:20px; margin-top:10px;">
+      <summary>Abstract</summary>
+      <p>
+        Questions regarding the effectiveness of different subsidies, along with the efficiency
+        and stability they may provide, have been researched widely within the field of economics.
+        However, the effects that result from the conclusion of subsidization have received considerably
+        less attention. As a case study, this analysis focuses on the CARES Act subsidy
+        and its influence on the airline industry. The CARES Act, implemented in March 2020,
+        provided funding for airlines amidst the COVID-19 pandemic. The funding consisted of
+        a twenty-five billion dollar allotment from the government across all airlines, which was
+        awarded based on the preceding year’s employment costs. This paper examines whether
+        this act led to improvements in quality or productivity within the airline industry after the
+        initial CARES Act shock subsided. Binary regression methods and on-time performance
+        data are utilized to this end. Ultimately, I find that, by my most conservative estimates,
+        the CARES Act’s resolution led to decreased quality, with a dip in worker productivity.
+      </p>
+    </details>
+  </li>
+</ul>
 
 - <em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp (Under Review) <br>
   [Full Paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6511299)
