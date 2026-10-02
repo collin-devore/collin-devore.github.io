@@ -9,7 +9,8 @@ permalink: /research/
 
 - <em>Who CARES? Airline Quality and the Aftermath of the CARES Act</em> by Collin DeVore
 <div style="margin-left:40px;">
-  <a href="/CARES_Act_Project.pdf">Full Paper</a>
+  <!-- <a href="/CARES_Act_Project.pdf">Full Paper</a> -->
+  [Full Paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5850942)
 </div>
 <details style="margin-left:40px;">
 <summary>Abstract</summary>
@@ -31,7 +32,14 @@ the CARES Act’s resolution led to decreased quality, with a dip in worker prod
 
 
 - <em>Asymmetric Price Adjustment to Regional Economic Fluctuations</em> by Collin DeVore, Minhae Kim, Myongjin Kim, and Nicholas G. Rupp (Under Review)
-
+  [Full Paper (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6511299)
+</div>
+<details style="margin-left:40px;">
+<summary>Abstract</summary>
+  <p>
+  
+  </p>
+</details>
 
 
 <br>
