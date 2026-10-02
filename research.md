@@ -59,7 +59,7 @@ the CARES Act’s resolution led to decreased quality, with a dip in worker prod
     <details style="margin-left:20px; margin-top:10px;">
       <summary>Abstract</summary>
       <p>
-
+        This paper examines how U.S. airlines adjust pricing in response to local economic fluctuations. Using data on route-level airfares and regional            GDP growth, we document a clear asymmetry in price adjustment over local business cycles: fares fall in local downturns yet rise slowly in expansions. When separated by ticket type, one-way fares account for most of the asymmetry, while round-trip fares exhibit smaller responses. This asymmetry is concentrated among major carriers, which operate hub-and-spoke networks with sophisticated revenue management systems and greater exposure to cyclical business travel demand, while low-cost carriers show little asymmetric response. We further estimate a static oligopoly pricing model with differentiated products and recover implied marginal costs. We find that marginal costs do not vary systematically with local GDP growth, which rules out cost pass-through as the primary source of asymmetric pricing. Instead, our results favor demand-based mechanisms linked to changes in passenger composition and markups, as airlines reallocate seat inventory across consumer segments over the local business cycle.
       </p>
     </details>
   </li>
